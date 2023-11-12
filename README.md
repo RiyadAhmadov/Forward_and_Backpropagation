@@ -1,4 +1,4 @@
-# Forward and Backpropagation
+# Forward and Backward Propagation
 
 ![Manual Backpropagation](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Backpropagation-passes-architecture.png?resize=434%2C414&ssl=1)
 
