@@ -45,4 +45,4 @@ Forward and backward propagation are essential steps in training artificial neur
 
 ## Contact
 
-For questions or feedback regarding this README or Backpropagation, please contact *Riyad* at *riyadehmedov03@gmail.com*.
+For questions or feedback regarding this README or Forward / Backward Propagation, please contact *Riyad* at *riyadehmedov03@gmail.com*.
